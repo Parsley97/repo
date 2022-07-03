@@ -1,2 +1,8 @@
 # local git ignore
+
+# ignore all backup files
 *.bak
+
+# locally ignore tmp/ folder
+tmp/*
+
